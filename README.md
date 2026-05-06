@@ -1,8 +1,8 @@
-# ABDN 2026 Cohort Repository
+# ABDN Fellowship 2026 Cohort Repository
 
 ## 🧠 Overview
 
-Welcome to the **ABDN 2026 Participant Repository**.
+Welcome to the **ABDN Fellowship 2026 Participant Repository**.
 
 This repository serves as the central workspace for:
 
